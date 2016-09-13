@@ -1,0 +1,3 @@
+Navigate to directory containing jar file.
+Enter command: java -jar part3.jar imageFile.data
+data file must be located in same directory as jar file. 

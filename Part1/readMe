@@ -1,0 +1,4 @@
+Navigate to directory containing part1.jar file.
+Enter command:
+"java -jar part1.jar trainingFile.txt testFile.txt k" where k is some integer 9>k>0
+data files must be located in same directory as jar file.

@@ -1,0 +1,3 @@
+ Navigate to directory containing jar file.
+Enter command: java -jar part2.jar trainingfile.dat testingfile.dat
+data files must be located in same directory as jar file.
